@@ -2,7 +2,7 @@
 
 
 
-```md
+
 # Entity Classification & Email Validation  
 
 ## 📌 Overview  
